@@ -36,7 +36,7 @@ This project creates a landing page for your **Polaroid P2 speaker** that allows
 
 ### Example URL (for reference):
 
-`https://your-hosting-service.com/p2_playlist_page.html`
+`https://githubusername.github.io/p2-landing-page/`
 
 ---
 
